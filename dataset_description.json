@@ -1,0 +1,14 @@
+{
+    "Name": "SPfMRS Social Processing Dataset",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Talitha C. Ford",
+        "Duanghathai Pasanta",
+        "Nina-Francesca Parrella",
+        "Peter G. Enticott",
+        "Gemma Lamp",
+        "David J. White",
+        "Nicolaas A. Puts"
+    ]
+}
